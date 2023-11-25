@@ -19,5 +19,8 @@
         "codespace.md"
       ]
     }
-  }
+  },
+
+  // Comando que se ejecutará después de crear el contenedor
+  "postCreateCommand": "echo 'Post-create command executed'"
 }
